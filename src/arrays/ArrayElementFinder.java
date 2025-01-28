@@ -2,7 +2,7 @@ package arrays;
 /**
  * Görev:
  * Kullanıcıdan bir dizi ve bir arama değeri al.
- * Eğer bu değer dizide varsa, indeksini yazdır.
+ * Eğer bu değer dizide varsa, indeksini yazdır
  */
 
 import java.util.Scanner;

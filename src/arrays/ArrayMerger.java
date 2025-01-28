@@ -47,6 +47,6 @@ public class ArrayMerger {
 
         System.out.print("Birleştirilmiş dizi : " + Arrays.toString(birlestirilmisDizi));
 
-
+        scan.close();
     }
 }
